@@ -3,7 +3,6 @@
 // @namespace    https://github.com/opqit/page-ai-translator
 // @version      2.1.0
 // @description  悬浮按钮一键翻译网页，支持 AI(DeepSeek/OpenAI) 和微软翻译(免费)，开箱即用。
-// @author       Operit
 // @match        *://*/*
 // @grant        GM_setValue
 // @grant        GM_getValue
